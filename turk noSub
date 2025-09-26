@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="tur",NAME="Türkçe",DEFAULT=YES,AUTOSELECT=YES,URI="https://3.nejyoner19.workers.dev/?vtt_as_m3u8=1&url=https%3A%2F%2Fd2.premiumvideo.click%2Fuploads%2Fencode%2Ffj9sm66bfnxs68iqlisr%2Ffj9sm66bfnxs68iqlisr_tur.vtt&shift=1.3"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="eng",NAME="English",DEFAULT=NO,AUTOSELECT=YES,URI="https://3.nejyoner19.workers.dev/?vtt_as_m3u8=1&url=https%3A%2F%2Fd2.premiumvideo.click%2Fuploads%2Fencode%2Ffj9sm66bfnxs68iqlisr%2Ffj9sm66bfnxs68iqlisr_eng.vtt&shift=1.3"
+#EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=854x480,CODECS="avc1.4d401e,mp4a.40.2",AUDIO="audio-480p",SUBTITLES="subs",CLOSED-CAPTIONS="cc"
+https://3.nejyoner19.workers.dev/?url=https%3A%2F%2Fd2.premiumvideo.click%2Fuploads%2Fencode%2Ffj9sm66bfnxs68iqlisr%2F480p%2Fplaylist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4000000,RESOLUTION=1920x1080,CODECS="avc1.4d401e,mp4a.40.2",AUDIO="audio-1080p",SUBTITLES="subs",CLOSED-CAPTIONS="cc"
+https://3.nejyoner19.workers.dev/?url=https%3A%2F%2Fd2.premiumvideo.click%2Fuploads%2Fencode%2Ffj9sm66bfnxs68iqlisr%2F1080p%2Fplaylist.m3u8
+
+
+
+
+to change from episode to other 
+replace %2F z3hhoqot9scrx9jb1o8j to %2F tb2kf2z8anpvdn4rp64n %
+replace %2F d3.premiumvideo.click to %2F d2.premiumvideo.click %
